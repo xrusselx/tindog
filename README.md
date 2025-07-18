@@ -2,7 +2,7 @@
 
 A Tinder-style landing page for dogs – built with HTML and CSS.
 
-## 📌 Features
+## 🔍 Features
 
 - Fully responsive design
 - Mobile-first layout
@@ -10,7 +10,7 @@ A Tinder-style landing page for dogs – built with HTML and CSS.
 - Font Awesome icons
 - Clean, modern UI
 
-## 🛠 Built With
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
